@@ -1,5 +1,5 @@
 .data
-	fileName: .asciiz "D:/HTMT/ASM/Thuyet_trinh/Output.txt"
+	fileName: .asciiz "Output.txt"
 	text: .ascii "hello guy"
 .text
 .globl main
