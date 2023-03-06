@@ -1,6 +1,6 @@
 # Hệ thống máy tính - use syscall 
 
-Read [document](https://courses.missouristate.edu/kenvollmar/mars/help/syscallhelp.html)
+Read more [document](https://courses.missouristate.edu/kenvollmar/mars/help/syscallhelp.html)
 
 ## 1. Introduction
   A number of system services, mainly for input and output, are available for use by your MIPS program. They are described in the table below.
