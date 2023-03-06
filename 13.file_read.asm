@@ -1,5 +1,5 @@
 .data
-	fileName: .asciiz "D:/HTMT/ASM/Thuyet_trinh/HelloWorld.txt"
+	fileName: .asciiz "HelloWorld.txt"
 	fileWords: .space 1024
 .text
 .globl main
